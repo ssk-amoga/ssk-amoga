@@ -2,7 +2,7 @@
 
 ### 📊 GitHub Stats:
 
-![SSK's GitHub stats](https://github-readme-stats.vercel.app/api?username=2SSK&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
+![SSK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssk-amoga&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2SSk&theme=great-gatsby&hide_border=true&layout=compact&card_width=495&border_radius=12&bg_color=135,222223,000000&hide=css,html,scss)
 
 <!--
